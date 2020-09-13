@@ -1,0 +1,23 @@
+{
+  "name": "mern-project",
+  "version": "1.0.0",
+  "description": "Learning Mern stack development",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ankitdubey987/mern-project.git"
+  },
+  "author": "ankitdubey987",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/ankitdubey987/mern-project/issues"
+  },
+  "homepage": "https://github.com/ankitdubey987/mern-project#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
